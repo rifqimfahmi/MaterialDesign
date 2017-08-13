@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/drawerProfile"
+        android:icon="@drawable/ic_portrait_black_24dp"
+        android:title="Profile" />
+    <item android:title="Action">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/drawerKillHooman"
+                    android:icon="@drawable/ic_portrait_black_24dp"
+                    android:title="Kill Hooman" />
+                <item
+                    android:id="@+id/drawerFeedMe"
+                    android:icon="@drawable/ic_portrait_black_24dp"
+                    android:title="Feed me" />
+                <item
+                    android:id="@+id/drawerWakeThem"
+                    android:icon="@drawable/ic_portrait_black_24dp"
+                    android:title="Wake them" />
+            </group>
+        </menu>
+    </item>
+</menu>

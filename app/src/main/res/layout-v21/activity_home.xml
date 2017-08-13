@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.renotekno.app1.materialdesign.HomeActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:text="@string/first_design"
+        android:id="@+id/firstDesign"
+        android:background="@drawable/ripple_first_design"
+        tools:targetApi="LOLLIPOP"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:text="@string/second_design"
+        android:id="@+id/secondDesign"
+        android:background="@drawable/ripple_second_design"
+        tools:targetApi="LOLLIPOP" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:text="@string/third_design"
+        android:id="@+id/thirdDesign"
+        android:background="@drawable/ripple_third_design"
+        tools:targetApi="LOLLIPOP" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:text="@string/third_design"
+        android:id="@+id/fourthDesign"
+        android:background="@drawable/ripple_fourth_design"
+        tools:targetApi="LOLLIPOP" />
+
+</LinearLayout>

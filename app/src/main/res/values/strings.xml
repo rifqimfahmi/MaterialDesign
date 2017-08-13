@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="placeholder_text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque ullamcorper sagittis.
+        Donec vitae blandit nunc. In ante dolor, aliquet id metus in, semper feugiat ante.
+        Proin sed velit dictum, ultrices purus sit amet, rutrum lectus. Vivamus sed nisi volutpat,
+        convallis nulla et, finibus metus. Integer facilisis venenatis libero et rhoncus. Praesent molestie
+        nibh feugiat augue ultricies luctus. Quisque tristique lectus vehicula magna vehicula, vitae commodo
+        nisi maximus. Cras ut suscipit mi. Praesent nibh sem, porta eget tincidunt vel, imperdiet vel risus.
+        Maecenas iaculis sem non luctus iaculis. Praesent vehicula vitae lectus sed mattis. Duis a est eu diam vestibulum sollicitudin nec a diam.\n\n
+
+Curabitur accumsan sit amet lectus et convallis. Suspendisse vel neque a ligula sagittis commodo.
+        Donec vel metus nulla. Nullam quis est laoreet, pharetra mi a, rutrum velit. Integer vitae porttitor mi,
+        non consectetur odio. Aenean iaculis at tortor at sollicitudin. Sed et dui iaculis nibh auctor pharetra.
+        Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque
+        ut vehicula orci. Phasellus at odio accumsan, pharetra augue at, auctor sem. Sed fermentum velit sit amet
+        magna malesuada rutrum. Nunc faucibus dui vitae rutrum facilisis. Integer sed elit diam.\n\n
+
+Donec pulvinar, nisl ut consequat lobortis, ante ipsum dapibus felis, sit amet fermentum velit odio ac dolor.
+        Nam ante ante, sagittis sed ipsum eget, blandit placerat tortor. Integer et mi ligula. Nunc tempus,
+        ligula sit amet ornare eleifend, massa lorem mollis elit, ac malesuada est orci quis ex. Vivamus porttitor
+        pellentesque laoreet. Ut consequat fringilla elit, eget feugiat libero rutrum tincidunt.
+        Vivamus ut velit fermentum, sollicitudin justo vitae, tempor eros. Nulla nec risus iaculis nibh gravida sagittis.\n\n
+
+Vivamus dapibus interdum nunc mollis posuere. Suspendisse ac lacinia nisl. Praesent pharetra egestas interdum.
+        Ut at felis urna. Nam in libero imperdiet, mattis odio eu, congue neque. Donec at augue justo. Suspendisse
+        sit amet viverra ligula. Nulla rutrum est et nunc hendrerit faucibus ut eget lorem. Fusce porta magna sit amet leo tincidunt, eu tristique diam dapibus.\n\n
+
+Aliquam commodo non urna id feugiat. Aliquam sollicitudin, lorem at efficitur ullamcorper, dui nunc vehicula eros,
+        non iaculis lectus leo quis augue. Sed non dictum erat. Vivamus et malesuada libero, vitae placerat nisi.
+        Nam odio enim, bibendum eget sagittis vel, lobortis sed eros. Nunc venenatis imperdiet urna, vel vehicula diam
+        gravida nec. Integer eu imperdiet lectus. Phasellus feugiat nibh ut ante ornare, eget dapibus dolor euismod.
+        Mauris sodales orci ante, in vulputate eros convallis ac. Duis sit amet porta turpis. Sed eu arcu at metus mattis
+        mollis ut a sem. Fusce lacinia fringilla ex ac egestas. Nam id mi a risus mattis cursus quis eget magna.
+        Suspendisse vitae pretium velit, vitae condimentum purus. Ut iaculis eros non tellus dapibus elementum sed eget urna.\n
+    </string>
+
+    <string name="placeholder_id">
+        Android adalah sistem operasi berbasis Linux yang dirancang untuk perangkat
+        bergerak layar sentuh seperti telepon pintar dan komputer tablet. Android awalnya dikembangkan
+        oleh Android, Inc., dengan dukungan finansial dari Google, yang kemudian membelinya pada tahun 2005.
+        Sistem operasi ini dirilis secara resmi pada tahun 2007, bersamaan dengan didirikannya Open Handset Alliance,
+        konsorsium dari perusahaan-perusahaan perangkat keras, perangkat lunak, dan telekomunikasi yang bertujuan untuk
+        memajukan standar terbuka perangkat seluler. Ponsel Android pertama mulai dijual pada bulan Oktober 2008.\n\n
+
+        Antarmuka pengguna Android umumnya berupa manipulasi langsung, menggunakan gerakan sentuh yang serupa dengan tindakan nyata,
+        misalnya menggeser, mengetuk, dan mencubit untuk memanipulasi objek di layar, serta papan ketik virtual untuk menulis teks.
+        Selain perangkat layar sentuh, Google juga telah mengembangkan Android TV untuk televisi, Android Auto untuk mobil,
+        dan Android Wear untuk jam tangan, masing-masingnya memiliki antarmuka pengguna yang berbeda.
+        Varian Android juga digunakan pada komputer jinjing, konsol permainan, kamera digital, dan peralatan elektronik lainnya.\n\n
+
+        Android adalah sistem operasi dengan sumber terbuka, dan Google merilis kodenya di bawah Lisensi Apache.
+        Kode dengan sumber terbuka dan lisensi perizinan pada Android memungkinkan perangkat lunak untuk
+        dimodifikasi secara bebas dan didistribusikan oleh para pembuat perangkat, operator nirkabel, dan
+        pengembang aplikasi. Selain itu, Android memiliki sejumlah besar komunitas pengembang aplikasi (apps)
+        yang memperluas fungsionalitas perangkat, umumnya ditulis dalam versi kustomisasi bahasa pemrograman Java.
+        Pada bulan Oktober 2013, ada lebih dari satu juta aplikasi yang tersedia untuk Android, dan sekitar 50 miliar
+        aplikasi telah diunduh dari Google Play, toko aplikasi utama Android. Sebuah survei
+        pada bulan April-Mei 2013 menemukan bahwa Android adalah platform paling populer bagi
+        para pengembang, digunakan oleh 71% pengembang aplikasi bergerak. Di Google I\/O 2014,
+        Google melaporkan terdapat lebih dari satu miliar pengguna aktif bulanan Android, meningkat dari 583 juta pada bulan Juni 2013.\n\n
+
+        Faktor-faktor di atas telah memberikan kontribusi terhadap perkembangan Android, menjadikannya sebagai sistem operasi
+        telepon pintar yang paling banyak digunakan di dunia, mengalahkan Symbian pada tahun 2010.
+        Android juga menjadi pilihan bagi perusahaan teknologi yang menginginkan sistem operasi berbiaya rendah,
+        bisa dikustomisasi, dan ringan untuk perangkat berteknologi tinggi tanpa harus mengembangkannya dari awal.
+        Sifat Android yang terbuka juga telah mendorong munculnya sejumlah besar komunitas pengembang aplikasi untuk
+        menggunakan kode sumber terbuka sebagai dasar proyek pembuatan aplikasi, dengan menambahkan fitur-fitur baru bagi
+        pengguna tingkat lanjut atau mengoperasikan Android pada perangkat yang secara resmi dirilis dengan menggunakan sistem operasi lain.\n\n
+
+    </string>
+    <string name="first_design">Article Text</string>
+    <string name="second_design">AppBar and ToolBar</string>
+    <string name="third_design">Navigation drawer</string>
+    <string name="drawer_open">Opened</string>
+    <string name="drawer_close">Closed</string>
+</resources>
