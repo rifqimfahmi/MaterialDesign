@@ -26,7 +26,10 @@
         <activity
             android:name=".ThirdDesign"
             android:theme="@style/AppTheme_NoActionBar" />
-        <activity android:name=".FourthActivity"></activity>
+        <activity
+            android:name=".FourthActivity"
+            android:theme="@style/AppTheme_NoActionBar" />
+        <activity android:name=".FifthDesign"></activity>
     </application>
 
 </manifest>

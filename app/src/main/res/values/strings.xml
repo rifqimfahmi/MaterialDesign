@@ -74,4 +74,6 @@ Aliquam commodo non urna id feugiat. Aliquam sollicitudin, lorem at efficitur ul
     <string name="third_design">Navigation drawer</string>
     <string name="drawer_open">Opened</string>
     <string name="drawer_close">Closed</string>
+    <string name="fourth_design">AppBar + NavDrawer + RecyclerView + Animator</string>
+    <string name="fifth_design">Color Palette</string>
 </resources>

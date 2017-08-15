@@ -8,6 +8,7 @@
     tools:context="com.renotekno.app1.materialdesign.HomeActivity">
 
     <Button
+        style="@style/button_home_style"
         android:layout_width="match_parent"
         android:layout_height="72dp"
         android:text="@string/first_design"
@@ -15,6 +16,7 @@
         android:background="@drawable/ripple_first_design"
         tools:targetApi="LOLLIPOP"/>
     <Button
+        style="@style/button_home_style"
         android:layout_width="match_parent"
         android:layout_height="72dp"
         android:text="@string/second_design"
@@ -22,6 +24,7 @@
         android:background="@drawable/ripple_second_design"
         tools:targetApi="LOLLIPOP" />
     <Button
+        style="@style/button_home_style"
         android:layout_width="match_parent"
         android:layout_height="72dp"
         android:text="@string/third_design"
@@ -30,11 +33,21 @@
         tools:targetApi="LOLLIPOP" />
 
     <Button
+        style="@style/button_home_style"
         android:layout_width="match_parent"
         android:layout_height="72dp"
-        android:text="@string/third_design"
+        android:text="@string/fourth_design"
         android:id="@+id/fourthDesign"
         android:background="@drawable/ripple_fourth_design"
+        tools:targetApi="LOLLIPOP" />
+
+    <Button
+        style="@style/button_home_style"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:text="@string/fifth_design"
+        android:id="@+id/fifthDesign"
+        android:background="@drawable/ripple_fifth_design"
         tools:targetApi="LOLLIPOP" />
 
 </LinearLayout>

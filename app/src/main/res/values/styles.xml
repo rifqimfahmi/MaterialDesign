@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
@@ -15,5 +15,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="button_home_style" >
+        <item name="android:paddingEnd" tools:targetApi="jelly_bean_mr1">32dp</item>
+        <item name="android:paddingRight">32dp</item>
+        <item name="android:paddingStart" tools:targetApi="jelly_bean_mr1">32dp</item>
+        <item name="android:paddingLeft">32dp</item>
+    </style>
 
 </resources>

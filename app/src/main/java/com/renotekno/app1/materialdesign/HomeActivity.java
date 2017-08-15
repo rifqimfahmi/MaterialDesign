@@ -11,6 +11,8 @@ public class HomeActivity extends AppCompatActivity {
     private Button firstDesign;
     private Button secondDesign;
     private Button thirdDesign;
+    private Button fourthDesign;
+    private Button fifthDesign;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,6 +42,20 @@ public class HomeActivity extends AppCompatActivity {
             }
         });
 
+        fourthDesign.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startChosenDesignActivity(FourthActivity.class);
+            }
+        });
+
+        fifthDesign.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startChosenDesignActivity(FifthDesign.class);
+            }
+        });
+
     }
 
     private void startChosenDesignActivity(Class<?> cls) {
@@ -51,5 +67,7 @@ public class HomeActivity extends AppCompatActivity {
         firstDesign = (Button) findViewById(R.id.firstDesign);
         secondDesign = (Button) findViewById(R.id.secondDesign);
         thirdDesign = (Button) findViewById(R.id.thirdDesign);
+        fourthDesign = (Button) findViewById(R.id.fourthDesign);
+        fifthDesign = (Button) findViewById(R.id.fifthDesign);
     }
 }
